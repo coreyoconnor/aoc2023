@@ -1,0 +1,13 @@
+LR
+
+1A = (2A, XXX)
+2A = (1B, 2Z)
+3A = (2B, XXX)
+1B = (1Z, 2B)
+2B = (3B, 3B)
+3B = (1C, 2Z)
+1C = (XXX, 1B)
+1Z = (XXX, 3A)
+2Z = (3Z, XXX)
+3Z = (XXX, 1A)
+XXX = (XXX, XXX)
